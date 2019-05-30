@@ -9,4 +9,3 @@
 **/.*
 **/bin/
 /gradle/oss-android-template.gradle
-/samples/sample-android/local.properties
